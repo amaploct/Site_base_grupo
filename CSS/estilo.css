@@ -7,13 +7,13 @@ body{
     background-color: ;
 }
 .col{
-    background-color: blue; 
+    background-color: rgb(102, 153, 255); 
 }
 .col-4{
-    background-color: blue; 
+    background-color: rgb(102, 153, 255); 
 }
 .col-8{
-    background-color: blue; 
+    background-color: rgb(102, 153, 255); 
 }
 .container{
     margin-top:20px;
