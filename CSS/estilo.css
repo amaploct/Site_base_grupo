@@ -2,9 +2,9 @@ body{
     background-color: darkblue;
 }
 .row{
-    margin-bottom: 20px;
-    padding: 20px;
-    background-color: ;
+    margin-bottom: 0px;
+    padding: 0px;
+    background-color: rgb(102, 153, 255) ;
 }
 .col{
     background-color: rgb(102, 153, 255); 
@@ -16,7 +16,7 @@ body{
     background-color: rgb(102, 153, 255); 
 }
 .container{
-    margin-top:20px;
-    border-radius: 15px;
-    margin-bottom:20px;
+    margin-top:0px;
+    border-radius: 0px;
+    margin-bottom:0px;
 }
